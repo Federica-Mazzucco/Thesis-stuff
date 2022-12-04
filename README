@@ -1,1 +1,11 @@
+git status
 
+git add CalcoliImportanti.Rmd CalcoliImportanti.html
+
+git status (gives list of changes to be committed)
+
+git commit -m "my first commit on Git"
+
+git push origin main
+
+Btw I love 🍕 and 🌻. Also, I am a bit 🌈
